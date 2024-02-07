@@ -14,8 +14,7 @@
 Team project to build a clone of [AirBnB](https://www.airbnb.com/).
 
 The console is a command interpreter to manage objects abstraction between objects and how they are stored.
-
-To see the fundamental background of the project visit the [Wiki](https://github.com/ralexrivero/AirBnB_clone/wiki).
+.
 
 The console will perform the following tasks:
 
@@ -42,7 +41,7 @@ All the development and testing was runned over an operating system Ubuntu 20.04
 ## 0x03 Installation
 
 ```bash
-git clone https://github.com/aysuarex/AirBnB_clone.git
+git clone https://github.com/Oseoji101/AirBnB_clone
 ```
 
 change to the `AirBnb` directory and run the command:
@@ -255,7 +254,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```bash
 (hbnb) create User
 1afa163d-486e-467a-8d38-3040afeaa1a1
-(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "aysuarex@gmail.com"
+(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "nonso.kelvin8770@gmail.com"
 (hbnb) show User 1afa163d-486e-467a-8d38-3040afeaa1a1
 [User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502186), 'email': 'aysuarex@gmail.com'}
 (hbnb)
@@ -263,19 +262,9 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Ayomide Suara</summary>
+    <summary>Nonso Onwuke</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    <li><a href="https://github.com/Oseoji101/AirBnB_clone">Github</a></li>
+    <li><a href="mailto:nonso.kelvin8770@gmail.com">e-mail</a></li>
     </ul>
 </details>
-<details>
-    <summary>Bamidele Adefolaju</summary>
-    <ul>
-    <li><a href="https://www.github.com/lexxyla">Github</a></li>
-    <li><a href="https://www.twitter.com/lexxyla">Twitter</a></li>
-    <li><a href="mailto:bamideleadefolaju@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-
