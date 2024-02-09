@@ -262,7 +262,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Nonso Onwuke</summary>
+    <summary>Nonso Onwuka</summary>
     <ul>
     <li><a href="https://github.com/Oseoji101/AirBnB_clone">Github</a></li>
     <li><a href="mailto:nonso.kelvin8770@gmail.com">e-mail</a></li>
